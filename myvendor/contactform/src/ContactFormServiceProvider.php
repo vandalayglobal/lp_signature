@@ -1,6 +1,6 @@
 <?php
 
-namespace MyVendor\contactform;
+namespace myvendor\contactform;
 
 use Illuminate\Support\ServiceProvider;
 

@@ -1,6 +1,6 @@
 <?php
 // MyVendor\Contactform\src\Http\Controllers\ContactFormController.php
-namespace MyVendor\Contactform\Http\Controllers;
+namespace myvendor\contactform\Http\Controllers;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use MyVendor\Contactform\Models\ContactForm;
