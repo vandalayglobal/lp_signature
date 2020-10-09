@@ -175,6 +175,7 @@ return [
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
         marriagetax\contactform\ContactFormServiceProvider::class,
+        marriagetax\signature\SignatureServiceProvider::class,
     ],
 
     /*

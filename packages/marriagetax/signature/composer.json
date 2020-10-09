@@ -1,0 +1,11 @@
+{
+    "name": "marriagetax/signature",
+    "description": "Signature package for landling page",
+    "authors": [
+        {
+            "name": "Krishna",
+            "email": "krishna.t@vandalayglobal.com"
+        }
+    ],
+    "require": {}
+}
