@@ -35,7 +35,7 @@
     "autoload": {
       
         "psr-4": {
-            "vcontactvendor\\contactform\\": "packages/vcontactvendor/contactform/src",
+            "marriagetax\\contactform\\": "packages/marriagetax/contactform/src",
             "App\\": "app/",
             "Database\\Factories\\": "database/factories/",
             "Database\\Seeders\\": "database/seeders/"
@@ -43,7 +43,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "vcontactvendor\\contactform\\": "packages/vcontactvendor/contactform/src",
+            "marriagetax\\contactform\\": "packages/marriagetax/contactform/src",
             "Tests\\": "tests/"
         }
     },

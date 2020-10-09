@@ -1,9 +1,9 @@
 <?php
 // MyVendor\Contactform\src\Http\Controllers\ContactFormController.php
-namespace myvendor\contactform\Http\Controllers;
+namespace marriagetax\contactform\Http\Controllers;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
-use MyVendor\Contactform\Models\ContactForm;
+use marriagetax\contactform\Models\ContactForm;
 
     class ContactFormController extends Controller {
         public function index()

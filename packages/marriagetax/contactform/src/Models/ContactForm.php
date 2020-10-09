@@ -1,6 +1,5 @@
 <?php
-    // MyVendor\Contactform\src\Models\ContactForm.php
-    namespace myvendor\contactform\Models;
+    namespace marriagetax\contactform\Models;
     use Illuminate\Database\Eloquent\Model;
     class ContactForm extends Model
     {

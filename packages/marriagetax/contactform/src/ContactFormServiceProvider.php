@@ -1,6 +1,6 @@
 <?php
 
-namespace myvendor\contactform;
+namespace marriagetax\contactform;
 
 use Illuminate\Support\ServiceProvider;
 
