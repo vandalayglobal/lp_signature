@@ -1,0 +1,14 @@
+{
+        "name": "marriagetax/contactform",
+        "description": "A contact form package for laravel",
+        "authors": [{
+            "name": "Arya",
+            "email": "arya.n@vandalayglobal.com"
+        }],
+        "require": {},
+        "autoload": {
+            "psr-4": {
+                "marriagetax\\contactform\\": "src/"
+            }
+        }
+}
