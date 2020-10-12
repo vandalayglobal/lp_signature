@@ -1,0 +1,21 @@
+{
+        "name": "marriagetax/signature",
+        "type": "library",
+        "description": "A signature form package for laravel",
+        "keywords": ["signature","signature"],
+        "homepage": "https://github.com/vandalayglobal/lp_signature.git",
+        "license": "MIT",
+        "authors": [
+            {
+                "name": "Arya",
+                "email": "arya.n@vandalayglobal.com",
+                "role": "Developer"
+            }
+        ],
+        "require": {},
+        "autoload": {
+            "psr-4": {
+                "marriagetax\\signature\\": "src/"
+            }
+        }
+}
