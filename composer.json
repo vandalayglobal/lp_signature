@@ -35,18 +35,14 @@
     "autoload": {
       
         "psr-4": {
-            "marriagetax\\contactform\\": "packages/marriagetax/contactform/src",
             "App\\": "app/",
             "Database\\Factories\\": "database/factories/",
-            "Database\\Seeders\\": "database/seeders/",
-            "marriagetax\\signature\\": "packages/marriagetax/signature/src"
+            "Database\\Seeders\\": "database/seeders/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "marriagetax\\contactform\\": "packages/marriagetax/contactform/src",
-            "Tests\\": "tests/",
-            "marriagetax\\signature\\": "packages/marriagetax/signature/src"
+            "Tests\\": "tests/"
         }
     },
     "minimum-stability": "dev",
