@@ -1,0 +1,16 @@
+{
+    "name": "lp_signature",
+    "description": "Signature packagist package",
+    "authors": [
+        {
+            "name": "Arya",
+            "email": "arya.n@vandalayglobal.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "lp_signature\\": "src/"
+        }
+    }
+}
