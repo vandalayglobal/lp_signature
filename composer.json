@@ -1,5 +1,5 @@
 {
-    "name": "marriagetax/signature",
+    "name": "vandalayglobal/lp_signature",
     "description": "Signature packagist package",
     "authors": [
         {
@@ -10,7 +10,7 @@
     "require": {},
     "autoload": {
             "psr-4": {
-                "marriagetax\\signature\\": "src/"
+                "vandalayglobal\\lp_signature\\": "src/"
             }
     }
 }
