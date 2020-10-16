@@ -7,7 +7,18 @@
             "email": "arya.n@vandalayglobal.com"
         }
     ],
-    "require": {},
+    "repositories": [
+        {
+            "type": "composer", "url": "https://packagist.org/packages/vandalayglobal/lp_signature/"
+        },
+        {
+            "packagist.org": false
+        }
+    ],
+    "require": {
+            "org/foo": "^1.2.3",
+            "org/bar": "dev-master"
+    },
     "autoload": {
             "psr-4": {
                 "vandalayglobal\\lp_signature\\": "src/"
