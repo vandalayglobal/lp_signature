@@ -9,7 +9,7 @@
     ],
     "repositories": [
         {
-            "type": "composer", "url": "https://github.com/vandalayglobal/lp_signature/"
+            "type": "composer", "url": "https://repo.packagist.com/vandalayglobal/"
         },
         {
             "packagist.org": false
